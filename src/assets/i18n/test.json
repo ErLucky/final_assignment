@@ -1,0 +1,128 @@
+{
+    "timestamp_update": 1582615091.84095,
+    "type": "store_area_validation",
+    "id": "JKL",
+    "timestamp_creation": 1582615091.84094,
+    "grids": [
+        {
+            "position": 0,
+            "zones": [
+                {
+                    "status": null,
+                    "y1": 150,
+                    "shape": "line",
+                    "y2": 300,
+                    "group": "normal",
+                    "x2": 300,
+                    "x1": 150,
+                    "type": "shelf",
+                    "id": "ABC"
+                },
+                {
+                    "status": null,
+                    "y1": 10,
+                    "shape": "box",
+                    "y2": 100,
+                    "group": "abnormal",
+                    "x2": 100,
+                    "x1": 10,
+                    "type": "palette",
+                    "id": "DEF"
+                },
+                {
+                    "status": null,
+                    "y1": 350,
+                    "shape": "box",
+                    "y2": 450,
+                    "group": "hardware_problem",
+                    "x2": 450,
+                    "x1": 350,
+                    "type": "obstacle",
+                    "id": "GHI"
+                }
+            ],
+            "image_w": 2464,
+            "image_h": 3280
+        },
+        {
+            "position": 1,
+            "zones": [
+                {
+                    "status": null,
+                    "y1": 150,
+                    "shape": "line",
+                    "y2": 300,
+                    "group": "normal",
+                    "x2": 300,
+                    "x1": 150,
+                    "type": "shelf",
+                    "id": "ABC"
+                },
+                {
+                    "status": null,
+                    "y1": 10,
+                    "shape": "box",
+                    "y2": 100,
+                    "group": "abnormal",
+                    "x2": 100,
+                    "x1": 10,
+                    "type": "palette",
+                    "id": "DEF"
+                },
+                {
+                    "status": null,
+                    "y1": 350,
+                    "shape": "box",
+                    "y2": 450,
+                    "group": "hardware_problem",
+                    "x2": 450,
+                    "x1": 350,
+                    "type": "obstacle",
+                    "id": "GHI"
+                }
+            ],
+            "image_w": 2464,
+            "image_h": 3280
+        },
+        {
+            "position": null,
+            "zones": [
+                {
+                    "status": null,
+                    "y1": 150,
+                    "shape": "line",
+                    "y2": 300,
+                    "group": "normal",
+                    "x2": 300,
+                    "x1": 150,
+                    "type": "shelf",
+                    "id": "ABC"
+                },
+                {
+                    "status": null,
+                    "y1": 10,
+                    "shape": "box",
+                    "y2": 100,
+                    "group": "abnormal",
+                    "x2": 100,
+                    "x1": 10,
+                    "type": "palette",
+                    "id": "DEF"
+                },
+                {
+                    "status": null,
+                    "y1": 350,
+                    "shape": "box",
+                    "y2": 450,
+                    "group": "hardware_problem",
+                    "x2": 450,
+                    "x1": 350,
+                    "type": "obstacle",
+                    "id": "GHI"
+                }
+            ],
+            "image_w": 2464,
+            "image_h": 3280
+        }
+    ]
+}
