@@ -28,7 +28,7 @@
     "@ngx-translate/http-loader": "4.0.0",
     "angular-dual-listbox": "4.7.0",
     "aos": "3.0.0-beta.6",
-    "chart.js": "2.8.0",
+    "chart.js": "2.9.4",
     "chartjs-plugin-datalabels": "0.6.0",
     "core-js": "2.6.5",
     "firebase": "^7.14.3",
